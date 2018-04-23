@@ -23,3 +23,9 @@ hs_err_pid*
 
 target/
 !.mvn/wrapper/maven-wrapper.jar
+/.classpath
+/.idea
+/.project
+/.settings
+/architecture-check-with-aspectj.iml
+/bin
